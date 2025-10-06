@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2ca66468-031c-492a-9448-748a817b6146" name="ryba_cm_bot">
+        <fileTransfer accessType="SFTP" host="83.222.22.48" port="22" sshConfigId="4e6513de-a868-4121-96df-f1051fa1f3c8" sshConfig="root@83.222.22.48:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

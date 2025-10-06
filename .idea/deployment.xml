@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="ryba_cm_bot" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="ryba_cm_bot">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/conten_matrix" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
